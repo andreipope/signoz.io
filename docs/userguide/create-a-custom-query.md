@@ -335,7 +335,7 @@ This example plots the error rate per service using a formula based on two queri
   ![](/img/docs/error-rate-create-function.png)
 
 7. Select the **Stage & Run Query** button. SigNoz will plot a graph similar to the following one:
-  ![](/img/docs/error-rate-preview.png
+  ![](/img/docs/error-rate-preview.png)
 
 8. <SaveGraph />
 
